@@ -581,7 +581,9 @@
     padding: 0;
     height: unset;
     .home-main {
-      background-image: url(../../images/inner-pages/coming-soon.jpg);
+     // background-image: url(../../images/inner-pages/coming-soon.jpg);
+     background-image: url("https://www.arabianbusiness.com/cloud/2021/09/14/3mOF59fC-dubaiskyline.jpg");
+     
       background-color: rgba($black, 0.8);
       background-blend-mode: overlay;
       width: 100%;
@@ -1304,7 +1306,7 @@
 }
 
 .banner-4 {
-  background-image: url(../../images/banner-3.jpg);
+  background-image: url("https://www.arabianbusiness.com/cloud/2023/07/31/dubai-real-estate-1.jpg");
   position: relative;
   z-index: 1;
   background-color: rgba($black, 0.5);
